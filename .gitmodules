@@ -22,3 +22,6 @@
 [submodule "Team-17"]
 	path = Team-17
 	url = https://github.com/cdsvitbhopal/Team-17.git
+[submodule "Team-18"]
+	path = Team-18
+	url = https://github.com/cdsvitbhopal/Team-18.git
