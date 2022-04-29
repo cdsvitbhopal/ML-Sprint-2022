@@ -16,3 +16,6 @@
 [submodule "Team-11"]
 	path = Team-11
 	url = https://github.com/cdsvitbhopal/Team-11.git
+[submodule "Team-16"]
+	path = Team-16
+	url = https://github.com/cdsvitbhopal/Team-16.git
