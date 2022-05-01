@@ -37,3 +37,6 @@
 [submodule "Winners/Team-03"]
 	path = Winners/Team-03
 	url = https://github.com/cdsvitbhopal/Team-03.git
+[submodule "Winners/Team-01"]
+	path = Winners/Team-01
+	url = https://github.com/cdsvitbhopal/Team-01.git
